@@ -1,6 +1,5 @@
 # Python
 ### Django
-  * [Restaurant website](https://github.com/GorskiMarekGM/SC50-Final-Project)
   * [Twitter like app](https://github.com/GorskiMarekGM/Python-JS-Project4-CS50)
   * [Wikipedia](https://github.com/GorskiMarekGM/Python-Project1-CS50)
   * [E-bay](https://github.com/GorskiMarekGM/Python-Project2-CS50)
